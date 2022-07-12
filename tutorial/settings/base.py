@@ -132,6 +132,7 @@ USE_TZ = True
 WAGTAIL_CONTENT_LANGUAGES = LANGUAGES = [
     ("en", "English"),
     ("tl", "Tagalog"),
+    ("es", "Spanish"),
 ]
 
 from django.conf.locale import LANG_INFO
